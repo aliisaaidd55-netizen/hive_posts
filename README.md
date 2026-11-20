@@ -83,22 +83,26 @@ Favorites are stored using the post ID as the key, allowing the app to check, ad
 
 ## Screenshots
 
-Add your application screenshots in the `screenshots/` folder and include them below.
 
 ### Posts Screen
-<!-- Add screenshot here -->
+
+<img width="1600" height="900" alt="WhatsApp Image 2026-11-20 at 10 06 23 PM" src="https://github.com/user-attachments/assets/ce1de404-8b33-49d2-9570-cd7c7371aac7" />
 
 ### Favorites Screen
-<!-- Add screenshot here -->
+<img width="960" height="540" alt="image" src="https://github.com/user-attachments/assets/59670164-e843-43a2-8199-d840c7c324fa" />
+
 
 ### Favorite Added
-<!-- Add screenshot here -->
+<img width="1600" height="900" alt="WhatsApp Image 2026-11-20 at 10 06 56 PM" src="https://github.com/user-attachments/assets/7558b57e-722c-41f3-b294-bd0cb0bbaa16" />
+
 
 ### Empty Favorites
-<!-- Add screenshot here -->
+<img width="1600" height="900" alt="WhatsApp Image 2026-11-20 at 10 06 39 PM" src="https://github.com/user-attachments/assets/24978a0b-78e3-4a90-8416-507fc52dbc6b" />
+
 
 ### Offline Mode
-<!-- Add screenshot here -->
+<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/b2863df5-9a63-4a9d-9f85-5c738186e0fc" />
+
 
 ## Offline Testing
 
@@ -111,4 +115,4 @@ Add your application screenshots in the `screenshots/` folder and include them b
 
 ## Author
 
-Flutter Hive Assignment — Fall 2026, Section 5
+Flutter Hive Assignment — Section 5
